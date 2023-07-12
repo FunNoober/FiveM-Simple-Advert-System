@@ -10,7 +10,7 @@ I was looking for a simple standalone advert system for my FiveM server and coul
 |-------------------------------------|----------------------------|
 | Code is accessible       | Yes                 |
 | Subscription-based      | No                 |
-| Lines (approximately)  | 12  |
+| Lines (approximately)  | 41  |
 | Requirements                | NONE     |
 | Support                           | No                 |
 
