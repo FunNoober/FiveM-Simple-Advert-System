@@ -11,5 +11,11 @@ I was looking for a simple standalone advert system for my FiveM server and coul
 
 ## TODO
 - [ ] Make it so you do not have to surround your advert with quotes when using multiple words
-- [ ] Add a config file and have different agencies capable of sending adverts
-- [ ] Ace permissions
+- [x] Add a config file and have different agencies capable of sending adverts
+- [x] Ace permissions
+
+## Timeline
+### July 12, 2023:
+- Initial Commit
+- Config File
+- Ace Permissions
